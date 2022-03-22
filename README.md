@@ -1,4 +1,4 @@
-# vuetify-productivity
+# vuetify-bookstore
 
 ## Project setup
 ```
